@@ -1,0 +1,57 @@
+body {
+  background-color: #f1d47a;
+  margin: 0;
+  font-family: 'Mitr', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.topnav {
+  overflow: hidden;
+  background-size: cover;
+  position: relative;
+  background-color: #2a9b98;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.topnav a:hover {
+  color: #9bb932;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.topnav .iconos {
+  float: right;
+  padding-right: 20px;
+}
+
+.topnav .iconos img {
+  width: 30px;
+  height: 28px;
+}
+
+.fondo {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.fondo img {
+  width: 1500px;
+  height: auto;
+  padding-left: 30px;
+}
+/*# sourceMappingURL=main.css.map */
